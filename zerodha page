@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zerodha
+    </title>
+</head>
+<body>
+<div style="display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 1px 2px #eee; ">
+    <img src="logo.svg" alt="" width="120px" 
+    height="25px" style="padding-top: 15px;">
+    <div style="display: flex;">
+        <div style="padding: 20px; color: #666; cursor: pointer;">
+            Signup
+        </div>
+        <div style="padding: 20px; color: #666; cursor: pointer;">
+            About
+        </div>
+        <div style="padding: 20px; color: #666; cursor: pointer;">
+            Products
+        </div>
+        <div style="padding: 20px; color: #666; cursor: pointer;">
+            Pricing
+        </div>
+        <div style="padding: 20px; color: #666; cursor: pointer;">
+            support
+        </div>
+    </div>
+</div> 
+
+<div style="display: flex; justify-content: center; padding-top: 40px;">
+    <img src="Screenshot (18).png" alt="" width="700px">
+</div>
+<div style="display: flex; justify-content: center;">
+    <h1 style="font-weight: 400;">
+        Invest in everything
+    </h1>
+</div>
+<div style="display: flex; justify-content: center; padding-bottom: 20px;">
+    <h3 style="font-weight: 300;">Online platform to invest in stocks, derivatives, 
+        mutual funds, ETFs, bonds, and more.</h3>
+</div>
+<div style="display: flex; justify-content: center;">
+    <div style="background-color: #387ed1; 
+    padding-left: 10px; padding-top: 10px;
+    padding-right: 10px; padding-bottom: 10px;
+    cursor: pointer; font-size: 20px; 
+    border-radius: 3px; color: white;">
+        Sign up now
+    </div>
+</div>
+
+
+
+
+</body>
+</html>
